@@ -1,0 +1,25 @@
+Incident Management
+
+The following is from Axelos ITIL Foundation V4 and not my own words.
+Incident = an unplanned interruption to a service or reduction in the quality of a service.
+The purpose of the incident management practice is to minimize the negative impact of incidents by restoring normal service operation as quickly as possible.
+By gathering specific information about incidents organizations can set priorities and improve the service value chain.
+
+------------------------------------------------------------------------------------
+
+
+Escalations
+
+Axelos ITIL Foundation V4 defines Escalation as:
+
+“The act of sharing awareness or transferring ownership of an issue or work item.”
+
+Hesk has a dedicated module for escalations in their cloud and paid versions. You can find more information at http://localhost:8000/admin/module_escalate.php
+
+This module will help you escalate tickets that are not attended to on time.
+Tickets not assigned, replied to, or resolved within a timeframe,
+tickets approaching due date and overdue tickets,
+automatically change ticket priority, re-assign a ticket, send an email notification,
+apply rules based on ticket category, owner, status,
+and much more…
+The escalation process here completely revolves around customer service and ticket hygiene.
